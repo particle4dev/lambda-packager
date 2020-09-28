@@ -37,7 +37,7 @@
     "fs-extra": "^0.24.0",
     "fs-promise": "^0.3.1",
     "inquirer": "^0.11.0",
-    "lodash.merge": "^3.3.2",
+    "lodash.merge": "^4.6.2",
     "request-promise": "^1.0.2",
     "rsvp": "^3.1.0",
     "temp": "^0.8.3",
